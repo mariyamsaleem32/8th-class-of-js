@@ -3,14 +3,14 @@
 // console.log(a);
 // console.log(b); 
 
-// var originalNum = 23;
-// var newNum = originalNum + 7;
-// console.log(newNum);
+var originalNum = 23;
+var newNum = originalNum + 7;
+console.log(newNum);
 
-// ++a   //pre increment
-// --aa  //pre decriment
-// a++   //post increment
-// a--   //post decriment
+++a   //pre increment
+--aa  //pre decriment
+a++   //post increment
+a--   //post decriment
 
 // let number1 = parseInt(prompt("enter your first number",33));
 // let number2 = parseInt(prompt("enter your second number",27));
